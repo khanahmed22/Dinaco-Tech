@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /pages/home/Home
+Allow: /pages/allproducts/AllProducts
+Allow: /pages/registration/Login
+Allow: /pages/registration/Signup
+Disallow: /pages/admin
+Disallow: /pages/cart
+Disallow: /pages/nopage
+Disallow: /pages/order
